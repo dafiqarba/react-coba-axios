@@ -1,0 +1,38 @@
+{
+  "pengguna": [
+    {
+      "id": 1,
+      "username": "test",
+      "email": "ane@gmail.com",
+      "password": "password"
+    },
+    {
+      "username": "a",
+      "email": "Prosigmaka@gmail.com",
+      "password": "a",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "username": "ab",
+      "email": "Prosigmaka@gmail.com",
+      "password": "ab",
+      "id": 4
+    }
+  ],
+  "candidate": [
+    {
+      "nama": "Aldy Gunawan",
+      "jenisKelamin": "Laki-laki",
+      "tempatLahir": "sa",
+      "tanggalLahir": "2021-04-24",
+      "alamat": "Gunung",
+      "email": "aaaa@gmail.com",
+      "noHp": "+6282838383883",
+      "id": 1
+    }
+  ],
+  "recipes": []
+}
